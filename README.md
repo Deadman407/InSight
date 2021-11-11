@@ -3,4 +3,8 @@ It is department management website which ease the work of teaching and learning
 
 
 <h1>Installations</h1>
-We have used [django](https://www.djangoproject.com)  in the backenend and [mysql](https://www.mysql.com) as database .
+We have used <a href="https://www.djangoproject.com">django</a>  in the backenend and <a href ="https://www.mysql.com">mysql</a> as database .
+<ul>
+  <li>pip install django</li>
+  
+  </ul>
