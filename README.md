@@ -10,4 +10,10 @@ We have used <a href="https://www.djangoproject.com">django</a>  in the backenen
   
   </ul>
   <h1>Contributers and Maintainers </h1>
+  <a href="https://www.github.com/sachin2496">
+  <img src="https://avatars.githubusercontent.com/u/77777198?v=4?size=1">
+  </a>
+  <a href="https://www.github.com/Deadman407">
+  <img src="https://avatars.githubusercontent.com/u/85412351?v=4?size=1">
+  </a>
   
