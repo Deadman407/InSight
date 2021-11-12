@@ -38,6 +38,8 @@ We have used <a href="https://www.djangoproject.com">django</a>  in the backenen
   </tbody>
   </table>
   
+  Feel free to contact us for any query .
+  
   
   
   
