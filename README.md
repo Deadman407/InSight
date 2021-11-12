@@ -9,6 +9,23 @@ We have used <a href="https://www.djangoproject.com">django</a>  in the backenen
   <li>pip install mysqlclient </li>
   
   </ul>
+  
+  <h1> Implementation </h1>
+  <ul>
+  For creating the project by django-admin
+  <li> django-admin create project-name</li>
+  <hr>
+  For running the project in local server
+  <li>python manage.py runserver</li>
+  <hr>
+  For creating a superuser 
+  <li>python manage.py createsuperuser</li>
+  <hr>
+  After making models we have to migrate it for registering in databse 
+  <li>python manage.py makemigrations</li>
+  <li>python manage.py migrate </li>
+  <hr>
+  
   <h1>Contributers and Maintainers </h1>
   <table> 
   <tbody>
