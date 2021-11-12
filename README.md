@@ -6,5 +6,8 @@ It is department management website which ease the work of teaching and learning
 We have used <a href="https://www.djangoproject.com">django</a>  in the backenend and <a href ="https://www.mysql.com">mysql</a> as database .
 <ul>
   <li>pip install django</li>
+  <li>pip install mysqlclient </li>
   
   </ul>
+  <h1>Contributers and Maintainers </h1>
+  
